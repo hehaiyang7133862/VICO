@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.lanSelecCtrl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="1920" d:DesignWidth="1080" xmlns:my="clr-namespace:nsVicoClient.ctrls">
+    <Canvas Height="1920" Width="1080" Name="cvsMain" MouseMove="cvsMain_MouseMove" MouseUp="cvsMain_MouseUp">
+        <Label Height="1920" Width="1080" Name="lbBackPanel" MouseDown="lbBackPanel_MouseDown" Background="Black" Opacity="0.5"/>
+        <Canvas Height="60" Width="38" Name="cvsPanel" MouseDown="cvsSetPanel_MouseDown" Canvas.Top="44" Canvas.Left="728">
+            <Image Height="25" Width="38" Source="/Program;component/png/OBJ_1_6_ChineseLanguage_V0.0.png" Name="imgCN" MouseDown="imgCN_MouseDown" />
+            <Image Height="25" Width="38" Source="/Program;component/png/OBJ_1_5_EnglishLanguage_V0.1.png" Canvas.Top="35" Name="imgEN" MouseDown="imgEN_MouseDown" />
+        </Canvas>
+    </Canvas>
+
+</UserControl>

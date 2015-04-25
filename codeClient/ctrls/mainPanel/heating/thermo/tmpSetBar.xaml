@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.tmpSetBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="320" d:DesignWidth="940"  >
+    <Canvas  Name="cvsBackWin" Width="940" MouseUp="cvsBackWin_MouseUp" MouseMove="cvsBackWin_MouseMove" MouseLeave="cvsBackWin_MouseLeave">
+
+        <Image Canvas.Left="96" Canvas.Top="40" Source="/Program;component/png/OBJ_15_17_ScrollLeft_V0.1.png" Width="11" Height="274"/>
+        <Image Canvas.Left="99" Canvas.Top="43" Source="/Program;component/png/OBJ_15_17_ScrollLeft_V0.2.png" Width="6" Height="7" Stretch="Fill" Name="imgValueLn"/>
+        <Label Canvas.Left="138" Canvas.Top="9" Content="{DynamicResource lanKey371}" Foreground="Black" HorizontalContentAlignment="Left" Name="lbHeating" Width="70" FontSize="14"  />
+        <Label Canvas.Left="0" Canvas.Top="9" Content="{DynamicResource lanKey370}"   Name="lbUsual" Width="65" Foreground="Black" FontSize="14"  HorizontalContentAlignment="Right"/>
+
+        <Image Canvas.Left="65" Canvas.Top="11" Height="26" Name="imgHeatingDown" Stretch="Fill" Width="74" Source="/Program;component/png/OBJ_10_1_Switch_Off_V0.2.png"/>
+        <Image Canvas.Left="65" Canvas.Top="11" Height="26" Stretch="Fill" Width="74" Source="/Program;component/png/OBJ_10_2_Switch_On_V0.2.png"  Name="imgKeepingDown" MouseDown="imgKeepingDown_MouseDown"  Opacity="0"/>
+
+        <Canvas Canvas.Left="18" Canvas.Top="276" Name="cvsHeatingLine" Background="#00000000" Height="48" Width ="894">
+            <!--<Line X1="0" Y1="0" X2="674" Y2="0" StrokeThickness="1" Stroke="Gray"  Name="lnFlag" Canvas.Top="24" Canvas.Left="94" Opacity="1"/>-->
+            <!--<Ellipse Width="10" Height="10" Fill="#FFEBB000" Canvas.Left="78" Canvas.Top="19" />-->
+            <Image Canvas.Left="53" Canvas.Top="-6" Source="/Program;component/png/OBJ_15_4_updownbutton_V0.0.png" Name="imgHeatingValue"  Height="59" Width="59" Opacity="1"/>
+            <!--<Image Canvas.Left="53" Canvas.Top="-6" Source="/Program;component/png/OBJ_15_4_updownbuttonActived_V0.0.png" Name="imgHeatingValueDown"  Height="59" Width="59" Opacity="0" MouseDown="imgHeatingValue_MouseDown" MouseUp="imgHeatingValue_MouseUp" MouseLeave="imgHeatingValue_MouseLeave" />-->
+            <Line X1="0" Y1="0" X2="674" Y2="0" StrokeThickness="1" Stroke="Gray"  Name="lnFlag" Canvas.Top="24" Canvas.Left="95" Opacity="0"/>
+            <Canvas Name="cvsValue" Canvas.Left="768" Opacity="0">
+                <!--<Line X1="0" Y1="0" X2="674" Y2="0" StrokeThickness="1" Stroke="Gray"  Name="lnFlag" Canvas.Top="24" Canvas.Left="-674" Opacity="1"/>-->
+
+
+                <Image Canvas.Top="14.5" Source="/Program;component/png/OBJ_15_22_Arrow_V0.0.png" Name="imgCurHeatingValue"  Height="19" Width="65"/>
+                <Label Canvas.Left="-15" Content="120" Foreground="#FFFF761B" HorizontalContentAlignment="Right" Name="lbHeatingValue" Width="65" Canvas.Top="11" />
+                <Label Canvas.Left="43" Content="{DynamicResource tempUnitNullKey}" Foreground="#FFFF761B" Name="lbHeatingValueUnit" Canvas.Top="11" HorizontalContentAlignment="Left"/>
+            </Canvas>
+            <Image Canvas.Left="53" Canvas.Top="-6" Source="/Program;component/png/OBJ_15_4_updownbuttonActived_V0.0.png" Name="imgHeatingValueDown" Opacity="0" Height="59" Width="59" MouseDown="imgHeatingValue_MouseDown" MouseUp="imgHeatingValue_MouseUp" MouseLeave="imgHeatingValue_MouseLeave" />
+
+        </Canvas>
+    </Canvas>
+
+</UserControl>

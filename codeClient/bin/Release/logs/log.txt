@@ -1,0 +1,5 @@
+2014-12-13 17:07:30,169 [10] INFO  nsVicoClient.App: 程序启动
+2014-12-13 17:07:47,263 [10] INFO  nsVicoClient.App: Start 	 MaxSpeed:3022872MaxPressure:4395430
+2014-12-13 17:07:47,263 [10] INFO  nsVicoClient.App: Refush
+2014-12-13 17:07:47,263 [10] INFO  nsVicoClient.App: RefushStart
+2014-12-13 17:07:57,179 [10] INFO  nsVicoClient.App: 程序正常关闭

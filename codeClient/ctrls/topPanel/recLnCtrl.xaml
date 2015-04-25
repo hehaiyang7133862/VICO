@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.recLnCtrl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="21" d:DesignWidth="100">
+    <Canvas  Height="21" Name="canvas1" Width="100">
+        <Image Name="img0" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="5" Name="img1" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="10" Name="img2" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="15" Name="img3" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="20" Name="img4" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="25" Name="img5" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="30" Name="img6" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="35" Name="img7" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="40" Name="img8" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="45" Name="img9" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="50" Name="img10" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="55" Name="img11" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="60" Name="img12" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="65" Name="img13" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="70" Name="img14" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="75" Name="img15" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="80" Name="img16" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="85" Name="img17" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="90" Name="img18" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+        <Image Canvas.Left="95" Name="img19" Source="/Program;component/png/OBJ_28_4_Orangeclub_5x5.png" Visibility="Hidden" />
+    </Canvas>
+
+</UserControl>

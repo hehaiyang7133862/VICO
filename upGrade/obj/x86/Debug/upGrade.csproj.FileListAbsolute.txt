@@ -1,0 +1,606 @@
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\git_0402\2014\upGrade\obj\x86\Debug\upgrade.pdb
+C:\Users\valmo\Desktop\2014\upGrade\bin\Debug\upgrade.exe
+C:\Users\valmo\Desktop\2014\upGrade\bin\Debug\upgrade.pdb
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\btnCtrl.baml
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\MainWindow.baml
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\MsgBox.baml
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\btnCtrl.g.cs
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\MainWindow.g.cs
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\MsgBox.g.cs
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\App.g.cs
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upgrade.g.resources
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upgrade.exe
+C:\Users\valmo\Desktop\2014\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\0407\2014\upGrade\obj\x86\Debug\upgrade.pdb
+D:\2014\upGrade\bin\Debug\upgrade.exe
+D:\2014\upGrade\bin\Debug\upgrade.pdb
+D:\2014\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\2014\upGrade\obj\x86\Debug\MainWindow.baml
+D:\2014\upGrade\obj\x86\Debug\MsgBox.baml
+D:\2014\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\2014\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\2014\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\2014\upGrade\obj\x86\Debug\App.g.cs
+D:\2014\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\2014\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\2014\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\2014\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\2014\upGrade\obj\x86\Debug\upgrade.exe
+D:\2014\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\04_10\2014\upGrade\bin\Debug\upgrade.exe
+D:\hhy\04_10\2014\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\04_10\2014\upGrade\obj\x86\Debug\upgrade.pdb
+D:\2014_04_12\upGrade\bin\Debug\upgrade.exe
+D:\2014_04_12\upGrade\bin\Debug\upgrade.pdb
+D:\2014_04_12\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\2014_04_12\upGrade\obj\x86\Debug\MainWindow.baml
+D:\2014_04_12\upGrade\obj\x86\Debug\MsgBox.baml
+D:\2014_04_12\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\2014_04_12\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\2014_04_12\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\2014_04_12\upGrade\obj\x86\Debug\App.g.cs
+D:\2014_04_12\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\2014_04_12\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\2014_04_12\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\2014_04_12\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\2014_04_12\upGrade\obj\x86\Debug\upgrade.exe
+D:\2014_04_12\upGrade\obj\x86\Debug\upgrade.pdb
+C:\Users\valmo\Desktop\2014_04_14\upGrade\bin\Debug\upgrade.exe
+C:\Users\valmo\Desktop\2014_04_14\upGrade\bin\Debug\upgrade.pdb
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\btnCtrl.baml
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\MainWindow.baml
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\MsgBox.baml
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\btnCtrl.g.cs
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\MainWindow.g.cs
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\MsgBox.g.cs
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\App.g.cs
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upgrade.g.resources
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upgrade.exe
+C:\Users\valmo\Desktop\2014_04_14\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\2014_04_14\upGrade\bin\Debug\upgrade.exe
+D:\hhy\2014_04_14\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\2014_04_14\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\2014_04_16\upGrade\bin\Debug\upgrade.exe
+D:\hhy\2014_04_16\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\2014_04_16\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_04_16\upGrade\obj\x86\Debug\upgrade.pdb
+E:\Working\程序\2014_04_28\upGrade\bin\Debug\upgrade.exe
+E:\Working\程序\2014_04_28\upGrade\bin\Debug\upgrade.pdb
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.baml
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\MainWindow.baml
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\MsgBox.baml
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.g.cs
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\MainWindow.g.cs
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\MsgBox.g.cs
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\App.g.cs
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\upgrade.g.resources
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\upgrade.exe
+E:\Working\程序\2014_04_28\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\代码\2014_04_28\upGrade\bin\Debug\upgrade.exe
+D:\hhy\代码\2014_04_28\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\代码\2014_04_28\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_13\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\代码\2014_05_19\upGrade\bin\Debug\upgrade.exe
+D:\hhy\代码\2014_05_19\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_19\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\代码\2014_05_23\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_05_23\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_06_17\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_07_01\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_07_16\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_12\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_19\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_25\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_26\Source\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_08_26\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_09_17\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_03\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2014_12_22\upGrade\obj\x86\Debug\upgrade.pdb
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\bin\Debug\upgrade.exe
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\bin\Debug\upgrade.pdb
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\btnCtrl.baml
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\MainWindow.baml
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\MsgBox.baml
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\btnCtrl.g.cs
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\MsgBox.g.cs
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\App.g.cs
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upgrade.g.resources
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upgrade.exe
+C:\Users\Valmo\Desktop\2014_12_22\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\code\2015_02_03\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\Current\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\Current\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\Current\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\Code\Current\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\Code\Current\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\Code\Current\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\VICO - 副本\upGrade\obj\x86\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\VICO\upGrade\bin\Debug\upgrade.exe
+D:\hhy\Working\Valmo\VICO\upGrade\bin\Debug\upgrade.pdb
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\btnCtrl.baml
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\MainWindow.baml
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\MsgBox.baml
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\btnCtrl.g.cs
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\MainWindow.g.cs
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\MsgBox.g.cs
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upgrade_MarkupCompile.cache
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upgrade.g.resources
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upGrade.Properties.Resources.resources
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upGrade.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upgrade.exe
+D:\hhy\Working\Valmo\VICO\upGrade\obj\x86\Debug\upgrade.pdb

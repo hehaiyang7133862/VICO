@@ -1,0 +1,122 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.progShowWinPart"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="1020" d:DesignWidth="1080">
+    <Canvas>
+        <Image     Source="/Program;component/png/OBJ_25_3_ProgShowWin.png"  />
+        <Label Height="1980" Width="1080" Name="lbBack" MouseDown="lbBack_MouseDown" />
+        <Label  Content="模板速度"  Width="95" Canvas.Left="181" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label  Content="顶针速度" Width="95" Canvas.Left="279" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label   Content="注射速度" Width="95" Canvas.Left="377" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label  Content="螺杆转速"  Width="95" Canvas.Left="475" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label  Content="第1段温度"  Width="95" Canvas.Left="573" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label  Content="周期时间"  Width="95" Canvas.Left="671" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+        <Label  Content="机械手周期"  Width="95" Canvas.Left="769" Canvas.Top="10" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="模板位置"  Width="95" Canvas.Left="177" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="顶针位置"  Width="95" Canvas.Left="274" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="注射压力"  Width="95" Canvas.Left="373" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="背压压力"  Width="95" Canvas.Left="470" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="第2段温度"  Width="95" Canvas.Left="569" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="总模数"  Width="95" Canvas.Left="667" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+        <Label  Content="机械手效率"  Width="95" Canvas.Left="765" Canvas.Top="93" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="锁模力"  Width="95" Canvas.Left="177" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="顶针扭矩"  Width="95" Canvas.Left="274" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="V/P切换位置"  Width="95" Canvas.Left="373" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="储料时间"  Width="95" Canvas.Left="470" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="第3段温度"  Width="95" Canvas.Left="569" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="标记模数"  Width="95" Canvas.Left="667" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+        <Label  Content="取出时间"  Width="95" Canvas.Left="765" Canvas.Top="169" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="移模扭矩"  Width="95" Canvas.Left="177" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+        <Label  Content="顶针马达温度"  Width="95" Canvas.Left="274" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+        <Label  Content="V/P切换压力"  Width="95" Canvas.Left="373" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+        <Label  Content="储料前位置"  Width="95" Canvas.Left="470" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+        <Label  Content="第4段温度"  Width="95" Canvas.Left="569" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+        <Label  Content="生产模数"  Width="95" Canvas.Left="667" Canvas.Top="246" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="合模马达温度"  Width="95" Canvas.Left="177" Canvas.Top="323" HorizontalContentAlignment="Center"/>
+        <Label  Content="V/P切换速度"  Width="95" Canvas.Left="373" Canvas.Top="323" HorizontalContentAlignment="Center"/>
+        <Label  Content="射台位置"  Width="95" Canvas.Left="470" Canvas.Top="323" HorizontalContentAlignment="Center"/>
+        <Label  Content="第5段温度"  Width="95" Canvas.Left="569" Canvas.Top="323" HorizontalContentAlignment="Center"/>
+        <Label  Content="产品数"  Width="95" Canvas.Left="667" Canvas.Top="323" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="V/P切换时间"  Width="95" Canvas.Left="373" Canvas.Top="399" HorizontalContentAlignment="Center"/>
+        <Label  Content="储料扭矩"  Width="95" Canvas.Left="470" Canvas.Top="399" HorizontalContentAlignment="Center"/>
+        <Label  Content="第6段温度"  Width="95" Canvas.Left="569" Canvas.Top="399" HorizontalContentAlignment="Center"/>
+        <Label  Content="不良品数"  Width="95" Canvas.Left="667" Canvas.Top="399" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="螺杆位置"  Width="95" Canvas.Left="373" Canvas.Top="474" HorizontalContentAlignment="Center"/>
+        <Label  Content="储料马达温度"  Width="95" Canvas.Left="470" Canvas.Top="474" HorizontalContentAlignment="Center"/>
+        <Label  Content="落料口温度"  Width="95" Canvas.Left="569" Canvas.Top="474" HorizontalContentAlignment="Center"/>
+        <Label  Content="单个能耗"  Width="95" Canvas.Left="667" Canvas.Top="474" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="注射前位置"  Width="95" Canvas.Left="373" Canvas.Top="552" HorizontalContentAlignment="Center"/>
+        <Label  Content="油泵温度"  Width="95" Canvas.Left="569" Canvas.Top="552" HorizontalContentAlignment="Center"/>
+        <Label  Content="1kg能耗"  Width="95" Canvas.Left="667" Canvas.Top="552" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="注射最前端位置"  Width="95" Canvas.Left="373" Canvas.Top="627" HorizontalContentAlignment="Center"/>
+        <Label  Content="1小时能耗"  Width="95" Canvas.Left="667" Canvas.Top="627" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="注射马达温度"  Width="95" Canvas.Left="373" Canvas.Top="703" HorizontalContentAlignment="Center"/>
+        <Label  Content="整机能耗"  Width="95" Canvas.Left="667" Canvas.Top="703" HorizontalContentAlignment="Center"/>
+
+        <Label  Content="注射扭矩"  Width="95" Canvas.Left="373" Canvas.Top="780" HorizontalContentAlignment="Center"/>
+
+        <Label   Height="75" Width="95" Canvas.Left="177" Canvas.Top="9" Name="lbMoldSpeed" MouseDown="lbMoldSpeed_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="274" Canvas.Top="9" Name="lbEjectorSpeed" MouseDown="lbEjectorSpeed_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="373" Canvas.Top="9" Name="lbInjSpeed" MouseDown="lbInjSpeed_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="470" Canvas.Top="9" Name="lbScrewRpm" MouseDown="lbScrewRpm_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="569" Canvas.Top="9" Name="lbTempFirstSec" MouseDown="lbTempFirstSec_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="667" Canvas.Top="9" Name="lbCycleTime" MouseDown="lbCycleTime_MouseDown" />
+        <Label   Height="75" Width="95" Canvas.Left="765" Canvas.Top="9" Name="lbRobotTime" MouseDown="lbRobotTime_MouseDown" />
+        
+        <Label Canvas.Left="177" Canvas.Top="84" Height="75" Width="95" Name="lbMoldPos" MouseDown="lbMoldPos_MouseDown" />
+        <Label Canvas.Left="274" Canvas.Top="84" Height="75" Width="95" Name="lbEjectorPos" MouseDown="lbEjectorPos_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="84" Height="75" Width="95" Name="lbInjPress" MouseDown="lbInjPress_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="84" Height="75" Width="95" Name="lbBackPress" MouseDown="lbBackPress_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="84" Height="75" Width="95" Name="lbTempSecondSec" MouseDown="lbTempSecondSec_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="84" Height="75" Width="95" Name="lbTotalShot" MouseDown="lbTotalShot_MouseDown" />
+        <Label Canvas.Left="765" Canvas.Top="84" Height="75" Width="95" Name="lbRobotFreePer" MouseDown="lbRobotFreePer_MouseDown" />
+        <Label Canvas.Left="177" Canvas.Top="160" Height="75" Width="95" Name="lbClampForce" MouseDown="lbCloseMoldTonnage_MouseDown" />
+        <Label Canvas.Left="274" Canvas.Top="160" Height="75" Width="95" Name="lbEjectorTorque" MouseDown="lbEjectorTorque_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="160" Height="75" Width="95" Name="lbVPPos" MouseDown="lbVPPos_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="160" Height="75" Width="95" Name="lbCushionTime" MouseDown="lbCushionTime_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="160" Height="75" Width="95" Name="lbthirdSec" MouseDown="lbthirdSec_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="160" Height="75" Width="95" Name="lbMarkerShot" MouseDown="lbMarkerShot_MouseDown" />
+        <Label Canvas.Left="765" Canvas.Top="160" Height="75" Width="95" Name="lbTakeOutTime" MouseDown="lbTakeOutTime_MouseDown" />
+        <Label Canvas.Left="177" Canvas.Top="236" Height="75" Width="95" Name="lbClampTorque" MouseDown="lbClampTorque_MouseDown" />
+        <Label Canvas.Left="276" Canvas.Top="236" Height="75" Width="95" Name="lbEjectorMotorTemp" MouseDown="lbEjectorMotorTemp_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="236" Height="75" Width="95" Name="lbVPPressure" MouseDown="lbVPPressure_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="236" Height="75" Width="95" Name="lbPosBeforeCushion1" MouseDown="lbPosBeforeCushion_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="236" Height="75" Width="95" Name="lbFourthSec" MouseDown="lbFourthSec_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="236" Height="75" Width="95" Name="lbProduceShot" MouseDown="lbProduceShot_MouseDown" />
+        <Label Canvas.Left="177" Canvas.Top="313" Height="75" Width="95" Name="lbMotorTemp" MouseDown="lbMotorTemp_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="313" Height="75" Width="95" Name="lbVPSpeed" MouseDown="lbVPSpeed_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="313" Height="75" Width="95" Name="lbInjectionUnitPos" MouseDown="lbInjectionUnitPos_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="313" Height="75" Width="95" Name="lbFifthSec" MouseDown="lbFifthSec_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="313" Height="75" Width="95" Name="lbTemperat" MouseDown="lbTemperat_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="389" Height="75" Width="95" Name="lbVPTime" MouseDown="lbVPTime_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="389" Height="75" Width="95" Name="lbcushionTorque" MouseDown="lbcushionTorque_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="389" Height="75" Width="95" Name="lbSixthSec" MouseDown="lbSixthSec_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="389" Height="75" Width="95" Name="lbRejectNum" MouseDown="lbRejectNum_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="464" Height="75" Width="95" Name="lbScrewPos" MouseDown="lbScrewPos_MouseDown" />
+        <Label Canvas.Left="470" Canvas.Top="464" Height="75" Width="95" Name="lbcushionMotorTemp" MouseDown="lbcushionMotorTemp_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="464" Height="75" Width="95" Name="lbhopperTemp" MouseDown="lbhopperTemp_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="464" Height="75" Width="95" Name="lbEachOneEnergy" MouseDown="lbEachOneEnergy_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="540" Height="75" Width="95" Name="lbPosBeforeInjection" MouseDown="lbPosBeforeInjection_MouseDown" />
+        <Label Canvas.Left="569" Canvas.Top="541" Height="75" Width="95" Name="lbOilPumpTemp" MouseDown="oilPumpTemp_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="540" Height="75" Width="95" Name="lbEachKgEnergy" MouseDown="lbEachKgEnergy_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="616" Height="75" Width="95" Name="lbcushionPos" MouseDown="lbcushionPos_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="616" Height="75" Width="95" Name="lbEachHourEnergy" MouseDown="lbEachHourEnergy_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="692" Height="75" Width="95"  Name="lbInjMotorTemp" MouseDown="lbInjMotorTemp_MouseDown" />
+        <Label Canvas.Left="667" Canvas.Top="692" Height="75" Width="95" Name="lbAllEnergy" MouseDown="lbAllEnergy_MouseDown" />
+        <Label Canvas.Left="373" Canvas.Top="769" Height="75" Width="95" Name="lbInjTorque" MouseDown="lbInjTorque_MouseDown_1" />
+
+    
+    </Canvas>
+</UserControl>

@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.tabItemBtnUnit"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="67" d:DesignWidth="67">
+    <Canvas Name="cvsMain" Width="67" Height="67">
+        <Ellipse Name="ellBack" Height="61" Width="61" Canvas.Left="3" Canvas.Top="3" Stroke="#FF444444" Fill="White" SnapsToDevicePixels="True" />
+    </Canvas>
+</UserControl>

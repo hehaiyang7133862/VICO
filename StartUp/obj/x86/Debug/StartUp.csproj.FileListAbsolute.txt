@@ -1,0 +1,366 @@
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\git_0402\2014\StartUp\obj\x86\Debug\VICO.pdb
+C:\Users\valmo\Desktop\2014\StartUp\bin\Debug\VICO.exe
+C:\Users\valmo\Desktop\2014\StartUp\bin\Debug\VICO.pdb
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\App.g.cs
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\VICO.g.resources
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\VICO.exe
+C:\Users\valmo\Desktop\2014\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\0407\2014\StartUp\obj\x86\Debug\VICO.pdb
+D:\2014\StartUp\bin\Debug\VICO.exe
+D:\2014\StartUp\bin\Debug\VICO.pdb
+D:\2014\StartUp\obj\x86\Debug\App.g.cs
+D:\2014\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\2014\StartUp\obj\x86\Debug\VICO.g.resources
+D:\2014\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\2014\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\2014\StartUp\obj\x86\Debug\VICO.exe
+D:\2014\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\04_10\2014\StartUp\bin\Debug\VICO.exe
+D:\hhy\04_10\2014\StartUp\bin\Debug\VICO.pdb
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\04_10\2014\StartUp\obj\x86\Debug\VICO.pdb
+D:\2014_04_12\StartUp\bin\Debug\VICO.exe
+D:\2014_04_12\StartUp\bin\Debug\VICO.pdb
+D:\2014_04_12\StartUp\obj\x86\Debug\App.g.cs
+D:\2014_04_12\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\2014_04_12\StartUp\obj\x86\Debug\VICO.g.resources
+D:\2014_04_12\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\2014_04_12\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\2014_04_12\StartUp\obj\x86\Debug\VICO.exe
+D:\2014_04_12\StartUp\obj\x86\Debug\VICO.pdb
+C:\Users\valmo\Desktop\2014_04_14\StartUp\bin\Debug\VICO.exe
+C:\Users\valmo\Desktop\2014_04_14\StartUp\bin\Debug\VICO.pdb
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\App.g.cs
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\VICO.g.resources
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\VICO.exe
+C:\Users\valmo\Desktop\2014_04_14\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\2014_04_14\StartUp\bin\Debug\VICO.exe
+D:\hhy\2014_04_14\StartUp\bin\Debug\VICO.pdb
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\2014_04_14\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\2014_04_16\StartUp\bin\Debug\VICO.exe
+D:\hhy\2014_04_16\StartUp\bin\Debug\VICO.pdb
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\2014_04_16\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_04_16\StartUp\obj\x86\Debug\VICO.pdb
+E:\Working\程序\2014_04_28\StartUp\bin\Debug\VICO.exe
+E:\Working\程序\2014_04_28\StartUp\bin\Debug\VICO.pdb
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\App.g.cs
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\VICO.g.resources
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\VICO.exe
+E:\Working\程序\2014_04_28\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\代码\2014_04_28\StartUp\bin\Debug\VICO.exe
+D:\hhy\代码\2014_04_28\StartUp\bin\Debug\VICO.pdb
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\代码\2014_04_28\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_13\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\代码\2014_05_19\StartUp\bin\Debug\VICO.exe
+D:\hhy\代码\2014_05_19\StartUp\bin\Debug\VICO.pdb
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_19\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\代码\2014_05_23\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_05_23\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_06_17\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_07_01\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_07_16\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\sold\2014_07_28\source\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\sold\2014_08_06_伊朗\source\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_12\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_17 - 副本\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_18 - 副本\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_19\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_25\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_26\Source\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_08_26\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_09_17\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_03\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_03 - 副本\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2014_12_22\StartUp\obj\x86\Debug\VICO.pdb
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\bin\Debug\VICO.exe
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\bin\Debug\VICO.pdb
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\App.g.cs
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\VICO.g.resources
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\VICO.exe
+C:\Users\Valmo\Desktop\2014_12_22\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\code\2015_02_03\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\Current\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\Current\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\Current\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\Code\Current\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\Code\Current\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\Code\Current\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\VICO - 副本\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\Valmo\VICO\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\Valmo\VICO\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO.pdb
