@@ -311,8 +311,6 @@ namespace nsVicoClient.ctrls
             lbValue.BorderBrush = _myBorderBrush;
 
             _curObj.setValue(newValue);
-            valmoWin.eventMgr.addParamMsg(_curObj.description, DateTime.Now, PreValue, newValue);
-            valmoWin.refresh();
 
         }
     }

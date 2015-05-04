@@ -227,7 +227,7 @@ namespace nsVicoClient.ctrls
             lbVDbl.Content = curObj.vDblStrNew;
             lbValue.Content = curObj.value;
 
-            valmoWin.eventMgr.addParamMsg(curObj.serialNum, DateTime.Now, PreValue, newValue);
+            valmoWin.eventMgr.Add(new recUnit(curObj.serialNum, valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr(), curObj.valueOld, curObj.valueNew));
         }
     }
 }

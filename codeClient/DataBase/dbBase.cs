@@ -1821,6 +1821,28 @@ namespace nsDataMgr
             lstItem.Add(new objUnit("Prd099", UnitType.DgtType, "noMin", "noMax", "ProductCounter1.sPassedMoldNumber"));
             lstItem.Add(new objUnit("Prd104", UnitType.Tm_s, "noMin", "noMax", "ProductCounter1.sREC_TempTimer"));
             lstItem.Add(new objUnit("Prd109", UnitType.DgtType, "noMin", "noMax", "Brakedownlist1.sReflashCycle"));
+
+            lstItem.Add(new objUnit("Prd140", UnitType.DgtType, "noMin", "noMax", "VarScope1.sOperator"));
+            lstItem.Add(new objUnit("Prd141", UnitType.DgtType, "noMin", "noMax", "VarScope1.sTriggerMode"));
+            lstItem.Add(new objUnit("Prd142", UnitType.DgtType, "noMin", "noMax", "VarScope1.sTriggerOp"));
+            lstItem.Add(new objUnit("Prd143", UnitType.DgtType, "noMin", "noMax", "VarScope1.sTriggerValue"));
+            lstItem.Add(new objUnit("Prd144", UnitType.Per, "noMin", "noMax", "VarScope1.sPreSample"));
+            lstItem.Add(new objUnit("Prd145", UnitType.DgtType, "noMin", "noMax", "VarScope1.sValueRange"));
+            lstItem.Add(new objUnit("Prd146", UnitType.Tm_ms, "noMin", "noMax", "VarScope1.sResolution"));
+            lstItem.Add(new objUnit("Prd147", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar1"));
+            lstItem.Add(new objUnit("Prd148", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar1Arry"));
+            lstItem.Add(new objUnit("Prd149", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar1Value"));
+            lstItem.Add(new objUnit("Prd150", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar2"));
+            lstItem.Add(new objUnit("Prd151", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar2Arry"));
+            lstItem.Add(new objUnit("Prd152", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar2Value"));
+            lstItem.Add(new objUnit("Prd153", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar3"));
+            lstItem.Add(new objUnit("Prd154", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar3Arry"));
+            lstItem.Add(new objUnit("Prd155", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar3Value"));
+            lstItem.Add(new objUnit("Prd156", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar4"));
+            lstItem.Add(new objUnit("Prd157", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar4Arry"));
+            lstItem.Add(new objUnit("Prd158", UnitType.DgtType, "noMin", "noMax", "VarScope1.sVar4Value"));
+            lstItem.Add(new objUnit("Prd159", UnitType.DgtType, "noMin", "noMax", "VarScope1.sCounter"));
+           
             lstItem.Add(new objUnit("Prd171", UnitType.Tm_s, "500", "1010", "SPC_Collector1.sR_Cycletime"));
             lstItem.Add(new objUnit("Prd172", UnitType.Tm_s, "noMin", "noMax", "Brakedownlist1.sCycleTimeCool"));
             lstItem.Add(new objUnit("Prd173", UnitType.Temp_C, "noMin", "noMax", "SPC_Collector1.sR_MotorTempMold"));

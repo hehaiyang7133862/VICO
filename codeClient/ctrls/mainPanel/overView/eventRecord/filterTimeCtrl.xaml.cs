@@ -59,7 +59,7 @@ namespace nsVicoClient.ctrls
 
         public bool check(recUnit ergObj)
         {
-            if (ergObj.dtStart > dtStart && ergObj.dtStart < dtEnd)
+            if (ergObj.ActiveTime > dtStart && ergObj.ActiveTime < dtEnd)
             {
                 return true;
             }
@@ -94,8 +94,8 @@ namespace nsVicoClient.ctrls
                 dtStart = tmpDtEnd;
                 dtEnd = tmpDtStart;
             }
-            if (fdStateChange != null)
-                fdStateChange();
+
+            valmoWin.eventMgr.Filter();
 
             cvsBg.Visibility = Visibility.Hidden;
         }
@@ -222,17 +222,15 @@ namespace nsVicoClient.ctrls
         private void lbTmHourStart_MouseDown(object sender, MouseButtonEventArgs e)
         {
             lbCurFocus = lbTmHourStart;
-            int hourMax = 24;
             valmoWin.dv.ItlPr[0].clear();
 
             valmoWin.dv.ItlPr[0].vMinDblNew = 0;
+            valmoWin.dv.ItlPr[0].vMaxDblNew = 24;
             valmoWin.dv.ItlPr[0].value = Int32.Parse(lbCurFocus.Content.ToString());
-            valmoWin.dv.ItlPr[0].unitType = UnitType.Tm_hour;
+            valmoWin.dv.ItlPr[0].unitType = UnitType.DgtType;
             valmoWin.dv.ItlPr[0].clear();
             valmoWin.dv.ItlPr[0].addLb(lbCurFocus);
-
-            valmoWin.dv.ItlPr[0].vMaxDblNew = hourMax;
-            valmoWin.SNumKeyPanel.init(valmoWin.dv.ItlPr[0], objUnit.unit_year, disposeFunc);
+            valmoWin.SNumKeyPanel.init(valmoWin.dv.ItlPr[0], objUnit.unit_hour, disposeFunc);
             lbCurFocus.Background = Brushes.Green;
         }
 
@@ -347,15 +345,14 @@ namespace nsVicoClient.ctrls
         private void lbTmHourEnd_MouseDown(object sender, MouseButtonEventArgs e)
         {
             lbCurFocus = lbTmHourEnd;
-            int hourMin = 1;
             valmoWin.dv.ItlPr[0].clear();
             valmoWin.dv.ItlPr[0].vMaxDblNew = 24;
-            valmoWin.dv.ItlPr[0].vMinDblNew = hourMin;
+            valmoWin.dv.ItlPr[0].vMinDblNew = 1;
             valmoWin.dv.ItlPr[0].value = Int32.Parse(lbCurFocus.Content.ToString());
-            valmoWin.dv.ItlPr[0].unitType = UnitType.Tm_hour;
+            valmoWin.dv.ItlPr[0].unitType = UnitType.DgtType;
             valmoWin.dv.ItlPr[0].clear();
             valmoWin.dv.ItlPr[0].addLb(lbCurFocus);
-            valmoWin.SNumKeyPanel.init(valmoWin.dv.ItlPr[0], disposeFunc);
+            valmoWin.SNumKeyPanel.init(valmoWin.dv.ItlPr[0],objUnit.unit_hour, disposeFunc);
             lbCurFocus.Background = Brushes.Green;
         }
 
@@ -414,7 +411,7 @@ namespace nsVicoClient.ctrls
                 bIsMouseDown = false;
                 cvsMain.Background = new SolidColorBrush(Color.FromArgb(0, 255, 255, 255));
 
-                valmoWin.refresh();
+                valmoWin.eventMgr.Filter();
 
                 cvsBg.Visibility = Visibility.Visible;
             }
