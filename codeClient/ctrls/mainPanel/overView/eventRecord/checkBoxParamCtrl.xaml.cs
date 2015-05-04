@@ -51,10 +51,8 @@ namespace nsVicoClient.ctrls
             if (imgBg.Opacity == 1)
             {
                 active = !active;
-                if (fdStateChange != null)
-                {
-                    fdStateChange();
-                }
+
+                valmoWin.eventMgr.Filter();
                 imgBg.Opacity = 0;
             }
         }

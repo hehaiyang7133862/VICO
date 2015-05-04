@@ -86,7 +86,7 @@ namespace nsVicoClient.ctrls
                 bIsMouseDown = false;
                 checkBoxCtrl1.bIsChecked = !_bIsChecked;
 
-                valmoWin.refresh();
+                valmoWin.eventMgr.Filter();
             }
         }
     }

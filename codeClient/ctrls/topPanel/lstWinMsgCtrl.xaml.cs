@@ -64,12 +64,12 @@ namespace nsVicoClient.ctrls
 
                         if (obj.objType == objectType.AlmPr)
                         {
-                            ergObj = new recUnit(obj.bitSers[i], DateTime.Now, recType.alarmType);
+                            ergObj = new recUnit(recType.alarmType,obj.bitSers[i],valmoWin.dv.users.curUser.name, DateTime.Now,valmoWin.dv.getCurPlateNr());
                             curActiveAlmObjLst.Insert(0, ergObj);
                         }
                         else if (obj.objType == objectType.AlmSys)
                         {
-                            ergObj = new recUnit(obj.bitSers[i], DateTime.Now, recType.sysType);
+                            ergObj = new recUnit(recType.sysType, obj.bitSers[i], valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr());
                             curActiveAlmObjLst.Insert(0, ergObj);
 
                             WinMsg msgSys = new WinMsg();
@@ -79,7 +79,7 @@ namespace nsVicoClient.ctrls
 
                         if (ergObj != null)
                         {
-                            valmoWin.eventMgr.msgSave(ergObj);
+                            valmoWin.eventMgr.Add(ergObj);
                         }
 
                         valmoWin.execHandle(opeOrderType.winMsg, new WinMsg(WinMsgType.mwMsg));
@@ -331,7 +331,7 @@ namespace nsVicoClient.ctrls
         }
     }
 
-    public class AlmUnitPanel
+    public class AlmUnitPanel:UserControl
     {
         public recUnit erObj;
         public Canvas cvs = new Canvas();
@@ -400,7 +400,6 @@ namespace nsVicoClient.ctrls
 
         }
 
-
         public AlmUnitPanel(recUnit ErObj, int no)
         {
 
@@ -451,9 +450,14 @@ namespace nsVicoClient.ctrls
 
             if (ErObj != null)
             {
+                object obj = TryFindResource(ErObj.serialNum);
+                if (obj != null)
+                {
+                    lbDis.SetResourceReference(Label.ContentProperty, ErObj.serialNum);
+                }
+
                 lbSerialNum.Content = ErObj.serialNum;
-                lbDis.Content = ErObj.discription;
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
             }
             erObj = ErObj;
@@ -464,9 +468,14 @@ namespace nsVicoClient.ctrls
         {
             if (ErObj != null)
             {
+                object obj = TryFindResource(ErObj.serialNum);
+                if (obj != null)
+                {
+                    lbDis.SetResourceReference(Label.ContentProperty, ErObj.serialNum);
+                }
+
                 lbSerialNum.Content = ErObj.serialNum;
-                lbDis.Content = ErObj.discription;
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
             }
             erObj = ErObj;

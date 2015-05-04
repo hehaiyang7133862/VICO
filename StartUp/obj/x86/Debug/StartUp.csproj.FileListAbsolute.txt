@@ -364,3 +364,12 @@ D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\StartUp.Properties.Resources.res
 D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
 D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO.exe
 D:\hhy\Working\Valmo\VICO\StartUp\obj\x86\Debug\VICO.pdb
+D:\hhy\Working\VICO\StartUp\bin\Debug\VICO.exe
+D:\hhy\Working\VICO\StartUp\bin\Debug\VICO.pdb
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\App.g.cs
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\VICO_MarkupCompile.cache
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\VICO.g.resources
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\StartUp.Properties.Resources.resources
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\StartUp.csproj.GenerateResource.Cache
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\VICO.exe
+D:\hhy\Working\VICO\StartUp\obj\x86\Debug\VICO.pdb

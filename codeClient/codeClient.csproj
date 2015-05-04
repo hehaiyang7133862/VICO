@@ -90,9 +90,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ctrls\mainPanel\overView\eventRecord\exportERLstCtrl.xaml.cs">
-      <DependentUpon>exportERLstCtrl.xaml</DependentUpon>
-    </Compile>
     <Compile Include="ctrls\instructionsPage.xaml.cs">
       <DependentUpon>instructionsPage.xaml</DependentUpon>
     </Compile>
@@ -311,10 +308,6 @@
     <Compile Include="startWindow.xaml.cs">
       <DependentUpon>startWindow.xaml</DependentUpon>
     </Compile>
-    <Page Include="ctrls\mainPanel\overView\eventRecord\exportERLstCtrl.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
     <Page Include="ctrls\instructionsPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

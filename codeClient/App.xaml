@@ -66,11 +66,6 @@
             <SolidColorBrush x:Key="vm_blue" Color="#FF0082C3" />
             <FontFamily x:Key="vm_num">Verdana</FontFamily>
             
-            <BitmapImage x:Key="imgA" UriSource="png/OBJ_21_1_Alarm_V0.0.png" />
-            <BitmapImage x:Key="imgM" UriSource="png/OBJ_21_2_ValueEnter_V0.0.png" />
-            <BitmapImage x:Key="imgS" UriSource="png/OBJ_21_3_SystemInfo_V0.0.png" />
-            <BitmapImage x:Key="imgL" UriSource="png/OBJ_21_4_Access_V0.0.png" />
-
             <BitmapImage x:Key="img6" UriSource="png/OBJ_27_18_UnitFor.png" />
             <BitmapImage x:Key="img7" UriSource="png/OBJ_27_17_UnitBack.png" />
             <BitmapImage x:Key="img10" UriSource="png/OBJ_27_7_KeyMoldOpen.png" />

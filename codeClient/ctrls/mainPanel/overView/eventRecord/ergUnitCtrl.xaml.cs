@@ -22,11 +22,9 @@ namespace nsVicoClient.ctrls
     public partial class ergUnitCtrl : UserControl
     {
         public recUnit erObj;
-        public int lstNr = 0;
-        SolidColorBrush Bg2 = new SolidColorBrush(Color.FromArgb(255, 230, 230, 230));
-
         private Popup pop;
         private AlarmHelpCtrl ahCtrl;
+
         public ergUnitCtrl()
         {
             InitializeComponent();
@@ -41,111 +39,65 @@ namespace nsVicoClient.ctrls
             pop.HorizontalOffset = 0;
             pop.StaysOpen = false;
         }
-        public void setValue(recUnit ErObj,int lstNo)
+
+        public void setValue(recUnit ErObj)
         {
-            btnHelp.Visibility = Visibility.Hidden;
-            lstNr = lstNo;
-            lbSerialNum.Foreground = Brushes.Black;
-            //if (lstNo % 2 == 1)
-            //    cvsMain.Background = Bg2;
-            //else
-            //    cvsMain.Background = Brushes.Transparent;
-            if (ErObj != null)
+            this.erObj = ErObj;
+
+            if (erObj != null)
             {
-                switch (ErObj.type)
+                tbType.Visibility = Visibility.Visible;
+                btnHelp.Visibility = Visibility.Visible; 
+                lbSerialNum.Content= erObj.serialNum;
+                lbUserName.Content = erObj.UserName;
+                tbType.SelectedIndex = (int)erObj.type;
+
+                object obj = TryFindResource(ErObj.serialNum);
+                if (obj != null)
                 {
-                    case recType.alarmType:
-                        lbSerialNum.Content = "A" + ErObj.serialNum.Substring(3,3);
-                        imgType.Source = (BitmapImage) App.Current.TryFindResource("imgA");
-                        btnHelp.Visibility = Visibility.Visible;
-                        break;
-                    case recType.logType:
-                        lbSerialNum.Content = ErObj.serialNum;
-                        imgType.Source = (BitmapImage)App.Current.TryFindResource("imgL");
-                        break;
-                    case recType.operateType:
-                        lbSerialNum.Content = "M" + ErObj.serialNum.Substring(3,3);
-                        imgType.Source = (BitmapImage)App.Current.TryFindResource("imgM");
-                        break;
-                    case recType.sysType:
-                        lbSerialNum.Content = "S" + ErObj.serialNum.Substring(3,3);
-                        imgType.Source = (BitmapImage)App.Current.TryFindResource("imgS");
-                        break;
-                }
-                lbUserName.Content = ErObj.userName;
-                if (ErObj.serialNum != null)
-                {
-                    string objDis = valmoWin.dv.getCurDis(ErObj.serialNum,(int)ErObj.oldValue,(int)ErObj.newValue); 
-                    if (objDis != "null" && objDis != null)
-                    {
-                        lbDis.Content = objDis;
-                    }
-                    else
-                    {
-                        lbDis.Content = "";
-                    }
-                }
-                else
-                    lbDis.Content = "";
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
-                if (ErObj.type == recType.operateType || ErObj.type == recType.logType)
-                    lbDtEnd.Content = "";
-                else
-                {
-                    if (ErObj.dtEnd.Year == 1)
-                    {
-                        for (int i = 0; i < lstWinMsgCtrl.curActiveAlmObjLst.Count; i++)
-                        {
-                            if (lstWinMsgCtrl.curActiveAlmObjLst[i].dtStart == ErObj.dtStart && ErObj.type == lstWinMsgCtrl.curActiveAlmObjLst[i].type)
-                            {
-                                lbSerialNum.Foreground = Brushes.Red;
-                                break;
-                            }
-                        }
-                        lbDtEnd.Content = "";
-                    }
-                    else
-                    {
-                        lbDtEnd.Content = ErObj.dtEnd.ToString("yyyy.MM.dd hh:mm:ss");
-                    }
-                }
-                lbPalteNum.Content = ErObj.plateNums;
-                if (ErObj.type == recType.operateType)
-                {
-                    lbOldValue.Content = ErObj.oldValue;
-                    lbNewValue.Content = ErObj.newValue;
+                    lbDes.SetResourceReference(Label.ContentProperty, ErObj.serialNum);
                 }
                 else
                 {
-                    lbOldValue.Content = "";
-                    lbNewValue.Content = "";
+                    lbDes.Content = ErObj.serialNum;
+                }
+                lbDtStart.Content = erObj.ActiveTime.ToString();
+                lbPalteNum.Content = erObj.Shots;
+                lbOldValue.Content = erObj.OldValue;
+                lbNewValue.Content = erObj.NewValue;
+                
+                if (erObj.type ==  recType.operateType)
+                {
+                    lbOldValue.Visibility = Visibility.Visible;
+                    lbNewValue.Visibility = Visibility.Visible;
+                }
+                else
+                {
+                    lbOldValue.Visibility = Visibility.Hidden;
+                    lbNewValue.Visibility = Visibility.Hidden; 
+                }
+
+                if (erObj.type == recType.alarmType)
+                {
+                    btnHelp.Visibility = Visibility.Visible;
+                }
+                else
+                {
+                    btnHelp.Visibility = Visibility.Hidden;
                 }
             }
             else
             {
+                tbType.Visibility = Visibility.Hidden;
+                btnHelp.Visibility = Visibility.Hidden; 
                 lbSerialNum.Content = "";
                 lbUserName.Content = "";
-                lbDis.Content = "";
+                lbDes.Content = "";
                 lbDtStart.Content = "";
-                lbDtEnd.Content = "";
                 lbPalteNum.Content = "";
                 lbOldValue.Content = "";
                 lbNewValue.Content = "";
-                imgType.Source = null;
             }
-
-            erObj = ErObj;
-        }
-        public void setFocus()
-        {
-            cvsMain.Background = Brushes.Red;
-        }
-        public void removeFocus()
-        {
-            if (lstNr % 2 == 1)
-                cvsMain.Background = Bg2;
-            else
-                cvsMain.Background = Brushes.Transparent;
         }
 
         private void btnHelp_MouseUp(object sender, MouseButtonEventArgs e)

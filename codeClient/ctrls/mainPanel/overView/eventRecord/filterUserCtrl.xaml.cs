@@ -129,15 +129,15 @@ namespace nsVicoClient.ctrls
                     {
                         if (lstFilterUserCur[j].curUser.name == lstUser[i].name)
                         {
-                            if (lstFilterUserCur[j].bIsChecked == true)
+                            if (lstFilterUserCur[j].bIsChecked == false)
                             {
-                                return true;
+                                return false;
                             }
                         }
                     }
                 }
             }
-            return false;
+            return true;
         }
 
         private bool bIsMouseDown = false;
@@ -153,7 +153,7 @@ namespace nsVicoClient.ctrls
             {
                 update();
 
-                valmoWin.refresh();
+                valmoWin.eventMgr.Filter();
 
                 cvsUser.Visibility = Visibility.Visible;
                 lbBj.Visibility = Visibility.Visible;

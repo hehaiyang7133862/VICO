@@ -45,7 +45,7 @@ namespace nsVicoClient.ctrls
                 }
                 //lbSerialNum.Content = ErObj.serialNum;
                 lbDis.Content = valmoWin.dv.getCurDis(ErObj.serialNum);
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
 
                 erObj = ErObj;
@@ -57,7 +57,7 @@ namespace nsVicoClient.ctrls
             if (ErObj != null)
             {
                 lbDis.Content = valmoWin.dv.getCurDis(ErObj.serialNum);
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
                 if (ErObj.type == recType.alarmType)
                 {
@@ -81,7 +81,7 @@ namespace nsVicoClient.ctrls
             {
 
                 lbDis.Content = valmoWin.dv.getCurDis(ErObj.serialNum);
-                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
                 if (ErObj.type == recType.alarmType)
                 {
