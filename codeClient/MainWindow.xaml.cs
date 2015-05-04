@@ -60,7 +60,7 @@ namespace nsVicoClient
         public static DateTime tmNull = new DateTime(2012, 9, 4, 0, 0, 0);
         public static DateTime tmUserLoad = tmNull;
         public static dataView dv = new dataView();        //要求紧跟database初始化
-        public static LogList eventMgr = new LogList();//要求在link 之前初始化，中间涉及alarm 开机的检测
+        public static eventMgrObj eventMgr = new eventMgrObj();//要求在link 之前初始化，中间涉及alarm 开机的检测
         public static callBackObjEvent callbackObjLstHandle;
         /// <summary>
         /// 初始化时执行
@@ -72,6 +72,10 @@ namespace nsVicoClient
         public static intEvent setDataAnalysisPageHeight;
         public static intEvent setOverViewPageTblHeight;
         public static intEvent setLineChartPageHeight;
+        /// <summary>
+        /// 刷新操作记录
+        /// </summary>
+        public static nullEvent refresh;
         public static nullEvent update;
         public static setPbarValue setPBar;
         public static DirectoryInfo sUsbPath;
@@ -670,20 +674,27 @@ namespace nsVicoClient
                     break;
                 case WinMsgType.mwLogInOK:
                     {
+                        //toolPanel.getWinMsgHandle(WinMsgType.mwLogInOK, null);
+                        //toolPanel.setCurUser();
                         SUserSetPanel.setUserState();
                         topPanel.sendMsgToWinFunc(msg);
-
-                        recUnit ergObj = new recUnit("LogIn",valmoWin.dv.users.curUser.name, DateTime.Now, dv.getCurPlateNr());
-                        valmoWin.eventMgr.Add(ergObj);
+                        recUnit ergObj = new recUnit("LogIn", DateTime.Now, recType.logType);
+                        valmoWin.eventMgr.msgSave(ergObj);
+                        valmoWin.refresh();
+                        //if (dv.users.curUser.accessLevel >= 3)
+                        //    mainPanel.interpretorPage1.getAccessFunc();
+                        //Program.ctrls.mainPanel.interpretor.interpretorPage.loadOkHandle();
                     }
                     break;
                 case WinMsgType.mwLogOut:
                     {
-                        recUnit ergObj = new recUnit("LogOut",valmoWin.dv.users.curUser.name, DateTime.Now, dv.getCurPlateNr());
-                        valmoWin.eventMgr.Add(ergObj);
-
+                        recUnit ergObj = new recUnit("LogOut", msg.pStr, DateTime.Now, recType.logType);
+                        valmoWin.eventMgr.msgSave(ergObj);
+                        //toolPanel.setCurUser();
                         SUserSetPanel.setUserState();
                         topPanel.sendMsgToWinFunc(msg);
+                        valmoWin.refresh();
+                        //mainPanel.quitToNewPage();
                     }
                     break;
                 case WinMsgType.mwPidClear:
@@ -708,6 +719,7 @@ namespace nsVicoClient
                     break;
                 case WinMsgType.mwMsg:
                     {
+                        mainPanel.overViewPage1.eventRecord.refreshEvent();
                     }
                     break;
                 case WinMsgType.mwRelink:
@@ -717,7 +729,8 @@ namespace nsVicoClient
                 #region //保存信息
                 case WinMsgType.mwMsgSave:
                     {
-                        eventMgr.Save();
+                        eventMgr.saveToFile();
+                        //valmoWin.ds.SPCSave();
                     }
                     break;
                 #endregion

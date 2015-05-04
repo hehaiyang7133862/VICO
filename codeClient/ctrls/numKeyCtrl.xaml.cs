@@ -292,7 +292,8 @@ namespace nsVicoClient.ctrls
                     {
                         if (obj.objType != objectType.ItlPr)
                         {
-                            valmoWin.eventMgr.Add(new recUnit(_curObj.serialNum, valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr(), obj.valueOld, obj.valueNew));
+                            valmoWin.eventMgr.addParamMsg(obj.serialNum, DateTime.Now, oldValue, obj.valueNew);
+                            valmoWin.refresh();
                         }
                         this.hide();
                         return true;

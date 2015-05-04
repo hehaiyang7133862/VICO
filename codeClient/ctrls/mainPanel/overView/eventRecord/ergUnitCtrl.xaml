@@ -7,35 +7,15 @@
              mc:Ignorable="d" 
              d:DesignHeight="38" d:DesignWidth="1058">
     <Canvas Height="38" Width="1058" Name="cvsMain" Background="#FFDCDCDC">
-        <Label Name="lbSerialNum" FontSize="14" Canvas.Left="10" Canvas.Top="6">Alm000</Label>
-        <Label Name="lbUserName" FontSize="14" Canvas.Left="80" Canvas.Top="6">UserName</Label>
-        <TabControl Canvas.Left="170" Canvas.Top="6" Height="26" Width="26" Name="tbType" TabStripPlacement="Right" Padding="0" BorderThickness="0" SelectedIndex="0" Background="Transparent">
-            <TabItem Height="0" Width="0" Padding="0" Margin="0">
-                <Canvas>
-                    <Image Source="/Program;component/png/OBJ_21_1_Alarm_V0.0.png" Height="26" Width="26" Stretch="Fill" />
-                </Canvas>
-            </TabItem>
-            <TabItem Height="0" Width="0" Padding="0" Margin="0">
-                <Canvas>
-                    <Image Source="/Program;component/png/OBJ_21_3_SystemInfo_V0.0.png" Height="26" Width="26" Stretch="Fill" />
-                </Canvas>
-            </TabItem>
-            <TabItem Height="0" Width="0" Padding="0" Margin="0">
-                <Canvas>
-                    <Image Source="/Program;component/png/OBJ_21_2_ValueEnter_V0.0.png" Height="26" Width="26" Stretch="Fill" />
-                </Canvas>
-            </TabItem>
-            <TabItem Height="0" Width="0" Padding="0" Margin="0">
-                <Canvas>
-                    <Image Source="/Program;component/png/OBJ_21_4_Access_V0.0.png" Height="26" Width="26" Stretch="Fill" />
-                </Canvas>
-            </TabItem>
-        </TabControl>
-        <Label Name="lbDes" FontSize="14" Canvas.Left="200" Width="430" Canvas.Top="6">Descrition</Label>
-        <Label Name="lbDtStart" FontSize="14" Canvas.Left="630" Canvas.Top="6">0000-00-00 00:00:00</Label>
-        <Label Name="lbPalteNum" FontSize="14" Canvas.Left="800" Canvas.Top="6">99999</Label>
-        <Label Name="lbNewValue" FontSize="14" Canvas.Left="860" Canvas.Top="6">9999999</Label>
-        <Label Name="lbOldValue" FontSize="14" Canvas.Left="940" Canvas.Top="6">9999999</Label>
+        <Label Content="A003" FontSize="14" Height="38" Name="lbSerialNum" VerticalContentAlignment="Center" Margin="10,0,0,0"/>
+        <Label Content="UserName" FontSize="14" Height="38" Name="lbUserName" Canvas.Left="70" VerticalContentAlignment="Center"/>
+        <Image Source="/Program;component/png/OBJ_21_1_Alarm_V0.2.png" Height="26" Width="26" Stretch="Fill" Canvas.Left="160" Name="imgType" Canvas.Top="6"/>
+        <Label Content="Dis" FontSize="14" Height="38" Width="360" Name="lbDis" Canvas.Left="185" VerticalContentAlignment="Center"/>
+        <Label Content="2013-10-25 23:22:45" FontSize="14" Height="38" Name="lbDtStart" Canvas.Left="550" VerticalContentAlignment="Center"/>
+        <Label Content="2013.10.25 23:22:45" FontSize="14" Height="31" Width="180" Name="lbDtEnd" Canvas.Left="525" Canvas.Top="-2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Opacity="0"/>
+        <Label Content="65544" FontSize="14" Height="38" Name="lbPalteNum" Canvas.Left="730" VerticalContentAlignment="Center"/>
+        <Label Content="0" FontSize="14" Height="38" Name="lbNewValue" Canvas.Left="820" VerticalContentAlignment="Center"/>
+        <Label Content="1" FontSize="14" Height="38" Name="lbOldValue" Canvas.Left="910" VerticalContentAlignment="Center"/>
 
         <Border Name="btnHelp" Height="28" Width="28" Canvas.Right="10" Canvas.Top="5" BorderThickness="0" BorderBrush="Transparent" MouseDown="btnHelp_MouseDown" MouseUp="btnHelp_MouseUp">
             <Border.Background>

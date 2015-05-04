@@ -17,7 +17,6 @@ using System.Threading;
 using nsDataMgr;
 using System.Xml;
 using System.Runtime.InteropServices;
-using nsVicoClient;
 
 namespace nsVicoClient.ctrls
 {
@@ -149,54 +148,6 @@ namespace nsVicoClient.ctrls
         {
             //PDFReader pr = new PDFReader(@"D:\hhy\Working\Valmo\资料\文档\说明书\Engel说明书.pdf");
             //wfh.Child = pr;
-        }
-
-        private void button1_Click_2(object sender, RoutedEventArgs e)
-        {
-            int count = valmoWin.dv.PrdPr[159].value;
-
-            int[] InjectionData = new int[count * 4];
-            Lasal32.GetData(InjectionData, (uint)valmoWin.dv.PrdPr[148].valueNew, count * 16);
-
-            tb1.Text = "";
-
-            foreach (int i in InjectionData)
-            {
-                tb1.Text += i + ",";
-            }
-
-        }
-
-        private void button3_Click(object sender, RoutedEventArgs e)
-        {
-            int count = valmoWin.dv.PrdPr[159].value;
-
-            int[] InjectionData = new int[count * 4];
-            Lasal32.GetData(InjectionData, (uint)valmoWin.dv.PrdPr[151].valueNew, count * 16);
-
-            tb2.Text = "";
-
-            foreach (int i in InjectionData)
-            {
-                tb2.Text += i + ",";
-            }
-
-        }
-
-        private void button2_Click_1(object sender, RoutedEventArgs e)
-        {
-            int count = valmoWin.dv.PrdPr[159].value;
-
-            int[] InjectionData = new int[count * 4];
-            Lasal32.GetData(InjectionData, (uint)valmoWin.dv.PrdPr[154].valueNew, count * 16);
-
-            tb3.Text = "";
-
-            foreach (int i in InjectionData)
-            {
-                tb3.Text += i + ",";
-            }
-
         }
     }
 }

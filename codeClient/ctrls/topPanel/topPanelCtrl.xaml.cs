@@ -175,9 +175,8 @@ namespace nsVicoClient.ctrls
                         linkPanel.Visibility = Visibility.Hidden;
 
                         linkState = true;
-
-                        valmoWin.eventMgr.Add(new recUnit(recType.sysType,"Sys000", valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr()));
-
+                        recUnit obj = new recUnit("Sys000", DateTime.Now, recType.sysType);
+                        valmoWin.eventMgr.msgSave(obj);
                         //WinMsg mwMsg = new WinMsg();
                         //mwMsg.type = WinMsgType.mwMsg;
                         //valmoWin.sendMsgToWinHandle(mwMsg);
@@ -191,8 +190,8 @@ namespace nsVicoClient.ctrls
                         if (linkState)
                         {
                             linkState = false;
-
-                            valmoWin.eventMgr.Add(new recUnit(recType.sysType, "Sys001", valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr()));
+                            recUnit obj = new recUnit("Sys001", DateTime.Now, recType.sysType);
+                            valmoWin.eventMgr.msgSave(obj);
                         }
                         //WinMsg mwMsg = new WinMsg();
                         //mwMsg.type = WinMsgType.mwMsg;
@@ -234,7 +233,8 @@ namespace nsVicoClient.ctrls
                         linkPanel.flagForceClose = false;
                         linkPanel.active = true;
 
-                        valmoWin.eventMgr.Add(new recUnit(recType.sysType, "Sys000", valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr()));
+                        recUnit obj = new recUnit("Sys000", DateTime.Now, recType.sysType);
+                        valmoWin.eventMgr.msgSave(obj);
                     }
                     break;
             }
@@ -678,7 +678,7 @@ namespace nsVicoClient.ctrls
 
     }
 
-    public class alarmPanel:UserControl
+    public class alarmPanel
     {
         public recUnit erObj;
         public Canvas cvs;
@@ -741,14 +741,9 @@ namespace nsVicoClient.ctrls
 
             if(ErObj != null)
             {
-                object obj = TryFindResource(ErObj.serialNum);
-                if (obj != null)
-                {
-                    lbDis.SetResourceReference(Label.ContentProperty, ErObj.serialNum);
-                }
-
                 lbSerialNum.Content = ErObj.serialNum;
-                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDis.Content = ErObj.discription;
+                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
             }
             erObj = ErObj;
@@ -759,14 +754,9 @@ namespace nsVicoClient.ctrls
         {
             if (ErObj != null)
             {
-                object obj = TryFindResource(ErObj.serialNum);
-                if (obj != null)
-                {
-                    lbDis.SetResourceReference(Label.ContentProperty, ErObj.serialNum);
-                }
-
                 lbSerialNum.Content = ErObj.serialNum;
-                lbDtStart.Content = ErObj.ActiveTime.ToString("yyyy.MM.dd hh:mm:ss");
+                lbDis.Content = ErObj.discription;
+                lbDtStart.Content = ErObj.dtStart.ToString("yyyy.MM.dd hh:mm:ss");
                 lbNo.Content = no;
             }
             erObj = ErObj;

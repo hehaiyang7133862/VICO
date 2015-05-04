@@ -44,21 +44,40 @@ namespace nsVicoClient.ctrls
         private int limitsDragUp;
         private double lasttop = -800;
 
+        enum sortType : byte
+        {
+            UserName,
+            StartTime,
+            EndTime,
+            PlateNum
+        }
+
         ergUnitCtrl[] ergUnitGrps = new ergUnitCtrl[68];
+        List<recUnit> curItemlst = eventMgrObj.itemsLst;
+        /// <summary>
+        /// 经过过滤处理的list
+        /// </summary>
+        List<recUnit> filterLst = new List<recUnit>();
 
         public eventRecord()
         {
             InitializeComponent();
 
-            valmoWin.eventMgr.FilterFunctions.Add(filterType);
-            valmoWin.eventMgr.FilterFunctions.Add(filterUser);
-            valmoWin.eventMgr.FilterFunctions.Add(filterTime);
+            valmoWin.refresh = new nullEvent(refreshEvent);
 
-            valmoWin.eventMgr.refush = new nullEvent(refreshEvent);
+            for (int i = 0; i < curItemlst.Count; i++)
+            {
+                filterLst.Add(curItemlst[i]);
+            }
 
+            if (filterLst.Count > 0)
+            {
+                recScroll.Height = 40 * 28 * 28 / filterLst.Count;
+            }
             updateErgUnitGrps();
-
             refreshCvsList(-20);
+
+            valmoWin.lstLanRefresh.Add(refreshEvent);
         }
 
         private void updateErgUnitGrps()
@@ -235,7 +254,7 @@ namespace nsVicoClient.ctrls
 
                     Canvas.SetTop(cvsEventRecord, topNew);
 
-                    double recTop = Canvas.GetTop(recScroll) + (topOld - topNew) * (40 * 28 - recScroll.Height) / 40 / (valmoWin.eventMgr.lstFilter.Count - 28);
+                    double recTop = Canvas.GetTop(recScroll) + (topOld - topNew) * (40 * 28 - recScroll.Height) / 40 / (filterLst.Count - 28);
                     Canvas.SetTop(recScroll, recTop);
 
                     curMousePos = tmp;
@@ -243,17 +262,57 @@ namespace nsVicoClient.ctrls
             }
         }
 
+        private void alarmMsgShow()
+        {
+            refreshEvent();
+        }
+        private void paramMsgShow()
+        {
+            refreshEvent();
+        }
+        private void sysMsgShow()
+        {
+            refreshEvent();
+        }
+        private void loadMsgShow()
+        {
+            refreshEvent();
+        }
+
         public void refreshEvent()
         {
-            //if (valmoWin.dv.SysPr[11].value != 2)
-            //{
-            //    return;
-            //}
-
+            valmoWin.update();
             Canvas.SetTop(cvsEventRecord, posTopBasic);
             Canvas.SetTop(recScroll, 0);
+            getFilterLst();
+            refreshCvsList(-20);
+        }
 
-            if (valmoWin.eventMgr.lstFilter.Count < 28)
+        /// <summary>
+        /// 结果筛选
+        /// </summary>
+        void getFilterLst()
+        {
+            filterLst.Clear();
+
+            for (int i = 0; i < curItemlst.Count; i++)
+            {
+                bool tmp;
+                tmp = filterType(curItemlst[i]) 
+                    & filterUser(curItemlst[i])
+                    & filterTime(curItemlst[i]);
+
+                if(tmp)
+                {
+                    filterLst.Add(curItemlst[i]);
+                }
+            }
+
+            eventMgrObj.filterLst = filterLst;
+
+            lbTotalListNum.Content = filterLst.Count;
+
+            if (filterLst.Count < 28)
             {
                 this.recScroll.Opacity = 0;
                 recScrollBack.Opacity = 0;
@@ -262,10 +321,9 @@ namespace nsVicoClient.ctrls
             {
                 this.recScroll.Opacity = 1;
                 recScrollBack.Opacity = 1;
-                this.recScroll.Height = 40 * 28 * 28 / valmoWin.eventMgr.lstFilter.Count;
+                this.recScroll.Height = 40 * 28 * 28 / filterLst.Count;
             }
-
-            refreshCvsList(-20);
+            
         }
 
         /// <summary>
@@ -279,25 +337,22 @@ namespace nsVicoClient.ctrls
             int curErgNr = 0;
             int curItemNr ;
 
-            List<recUnit> filterLst = valmoWin.eventMgr.lstFilter;
-
             for (curItemNr = startNum + curErgNr; curErgNr < 68 && curItemNr < filterLst.Count; curItemNr++)
             {
                 if (curItemNr < 0)
                 {
-                    ergUnitGrps[curErgNr++].setValue(null);
+                    ergUnitGrps[curErgNr++].setValue(null, curItemNr);
                 }
                 else
                 {
-                    ergUnitGrps[curErgNr++].setValue(filterLst[curItemNr]);
+                    ergUnitGrps[curErgNr++].setValue(filterLst[curItemNr], curItemNr);
                 }
             }
 
             curItemNr = curErgNr + startNum;
             for (int i = curErgNr; i < 68; i++)
             {
-                curItemNr++;
-                ergUnitGrps[i].setValue(null);
+                ergUnitGrps[i].setValue(null, curItemNr++);
             }
 
             curStartNr = startNum;
@@ -305,7 +360,7 @@ namespace nsVicoClient.ctrls
 
         private bool filterUser(recUnit ergObj)
         {
-            return filterUserCtrl1.check(ergObj.UserName);
+            return filterUserCtrl1.check(ergObj.userName);
         }
         private bool filterTime(recUnit ergObj)
         {

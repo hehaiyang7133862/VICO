@@ -9,115 +9,180 @@ using System.Xml;
 
 namespace nsVicoClient
 {
-    public class LogList
-    {
-        public delegate bool FilterFunction(recUnit logUnit);
-        public List<FilterFunction> FilterFunctions = new List<FilterFunction>();
-        public nullEvent refush;
-        public int loadCount = 0;
+    public delegate void addNewItemsEvent();
+	public class eventMgrObj
+	{
+        string intervalChart = "\t";
+        public delegate void callbackWhenNewDataComeEvent();
+        
+        public static List<recUnit> itemsLst = new List<recUnit>();
+        public static List<recUnit> filterLst = new List<recUnit>();
 
-        private string savePath = @"D:\Valmo\EventRecord";
-        private List<recUnit> lstLog = new List<recUnit>();
-        public List<recUnit> lstFilter = new List<recUnit>();
-
-        public LogList()
+        public eventMgrObj()
         {
-            if (!Directory.Exists(savePath))
+            if (!Directory.Exists("conf"))
             {
-                Directory.CreateDirectory(savePath);
+                Directory.CreateDirectory("conf");
             }
-
-            Load();
+            loadMessageFromFile();
         }
 
-        public void Save()
+        public void addParamMsg(objUnit obj, double oldValue, recType type)
         {
-            FileStream fs = new FileStream(savePath + "\\" + DateTime.Now.ToString("yyyy-MM-dd") + ".txt", FileMode.Append, FileAccess.Write);
-            StreamWriter sw = new StreamWriter(fs, Encoding.UTF8);
+            string ergSerialNum = "--";
+            if (obj.serialNum != null)
+                ergSerialNum = obj.serialNum;
+            string userName = valmoWin.dv.users.curUser.name;
+            if (userName == "null")
+                userName = "--";
+            DateTime dtStart = DateTime.Now;
+            int plateNum = valmoWin.dv.getCurPlateNr();
+            double newValue = obj.valueNew;
+            recUnit erObj = new recUnit(ergSerialNum, userName, dtStart, valmoWin.sNullTime, plateNum, oldValue, newValue, type);
+            msgSave(erObj);
+        }
 
-            for (int i = loadCount; i < lstLog.Count; i++)
+        public void addParamMsg(string serialNum, DateTime dtStart, double oldValue, double newValue, recType type = recType.operateType)
+        {
+            string ergSerialNum = "--";
+            if (serialNum != null)
+                ergSerialNum = serialNum;
+            string userName = valmoWin.dv.users.curUser.name;
+            int plateNum = valmoWin.dv.getCurPlateNr();
+            recUnit erObj = new recUnit(serialNum, userName, dtStart, valmoWin.sNullTime, plateNum, oldValue, newValue, type);
+            msgSave(erObj);
+
+            valmoWin.refresh();
+        }
+
+        /// <summary>
+        /// 产生警是记录
+        /// </summary>
+        /// <param name="erObj"></param>
+        public void msgSave(recUnit erObj)
+        {
+            itemsLst.Insert(0, erObj);
+
+            valmoWin.execHandle(opeOrderType.winMsg, new WinMsg(WinMsgType.mwMsg));
+
+            if (itemsLst.Count - countFs > 50)
             {
-                sw.WriteLine(lstLog[i].ToString());
+                saveToFile();
             }
+        }
+        List<XmlElement> emLst = new List<XmlElement>();
 
-            sw.Flush();
-            sw.Close();
+        /// <summary>
+        /// 自动保存
+        /// </summary>
+        public void saveToFile()
+        {
+            FileStream fs = new FileStream(@"conf\msgRecord.vm", FileMode.OpenOrCreate);
+            fs.Seek(0, SeekOrigin.End);
+            for (int i = itemsLst.Count - countFs - 1; i >= 0; i--)
+            {
+                string str = itemsLst[i].toSaveString(intervalChart);
+                byte[] buffer = System.Text.Encoding.Default.GetBytes(str);
+                fs.Write(buffer, 0, buffer.Length);
+                for (int j = buffer.Length; j < 120; j++)
+                {
+                    fs.WriteByte(0);
+                }
+                countFs++;
+            }
+            fs.Flush();
             fs.Close();
         }
 
-        private void Load()
+        /// <summary>
+        /// 导出
+        /// </summary>
+        /// <param name="fileName">文件名</param>
+        /// <returns>操作结果</returns>
+        public static bool saveToFile(string fileName)
         {
-            List<string> loadPath = new List<string>();
-
-            for (int i = 0; (i < 100) && (loadPath.Count < 14); i++)
+            FileStream fs = null;
+            StreamWriter sw = null;
+            try
             {
-                string temp = savePath + "\\" + (DateTime.Now - TimeSpan.FromDays(i)).ToString("yyyy-MM-dd") + ".txt";
+                fs = new FileStream(fileName, FileMode.OpenOrCreate);
+                sw = new StreamWriter(fs);
+                string tmp = "编号\t用户\t对象\t触发时间\t结束时间\t模数\t旧值\t新值";
+                sw.WriteLine(tmp);
 
-                if (File.Exists(temp))
+                for (int i = 0; i < filterLst.Count; i++)
                 {
-                    loadPath.Add(temp);
-                }
-            }
-
-            lstLog.Clear();
-
-            for (int i = loadPath.Count - 1; i >= 0; i--)
-            {
-                FileStream fs = new FileStream(loadPath[i], FileMode.Open, FileAccess.Read);
-                StreamReader sr = new StreamReader(fs, Encoding.Default);
-                fs.Seek(0, SeekOrigin.Begin);
-
-                while (true)
-                {
-                    string content = sr.ReadLine();
-
-                    if (content == null)
+                    tmp = string.Empty;
+                    tmp += filterLst[i].serialNum.ToString() + "\t";
+                    tmp += filterLst[i].userName.ToString() + "\t";
+                    tmp += valmoWin.dv.getCurDis(filterLst[i].serialNum) + "\t";
+                    tmp += filterLst[i].dtStart.ToString() + "\t";
+                    if (filterLst[i].dtEnd.Year != 1)
                     {
-                        break;
+                        tmp += filterLst[i].dtEnd.ToString() + "\t";
+                    }
+                    else
+                    {
+                        tmp += " " + "\t";
+                    }
+                    tmp += filterLst[i].plateNums.ToString() + "\t";
+                    if (filterLst[i].oldValue != 0)
+                    {
+                        tmp += filterLst[i].oldValue.ToString() + "\t";
+                    }
+                    else
+                    {
+                        tmp += " " + "\t";
+                    }
+                    if (filterLst[i].newValue != 0)
+                    {
+                        tmp += filterLst[i].newValue.ToString();
+                    }
+                    else
+                    {
+                        tmp += " " + "\t";
                     }
 
-                    lstLog.Add(new recUnit(content));
+                    sw.WriteLine(tmp);
                 }
+
+                sw.Close();
+                fs.Close();
+
+                return true;
             }
-
-            loadCount = lstLog.Count;
-        }
-
-        public void Add(recUnit log)
-        {
-            lstLog.Add(log);
-
-            Filter();
-        }
-
-        public void Delete(recUnit log)
-        {
-            lstLog.Remove(log);
-        }
-
-        public void Filter()
-        {
-            lstFilter.Clear();
-
-            for (int i = lstLog.Count - 1; i >= 0; i--)
+            catch (System.Exception ex)
             {
-                bool b = true;
+                if(sw != null)
+                    sw.Close();
+                if(fs != null)
+                    fs.Close();
+                return false;
 
-                foreach (FilterFunction ff in FilterFunctions)
-                {
-                    b &= ff(lstLog[i]);
-                }
-
-                if (b == true)
-                {
-                    lstFilter.Add(lstLog[i]);
-                }
             }
 
-            if (refush != null)
-            {
-                refush();
-            }
         }
-    }
+        int count = 0;
+        int countFs = 0;
+
+        /// <summary>
+        /// 读取事件记录
+        /// </summary>
+        public void loadMessageFromFile()
+        {
+            FileStream fs = new FileStream(@"conf\msgRecord.vm", FileMode.OpenOrCreate);
+            byte[] buffer = new byte[120];
+            while (fs.Read(buffer, 0, 120) > 0)
+            {
+                string str = System.Text.Encoding.Default.GetString(buffer);
+                recUnit itemUnit = new recUnit(str);
+                if (itemUnit.serialNum != "error")
+                {
+                    itemsLst.Insert(0,itemUnit);
+                    countFs++;
+                }
+            }
+            fs.Close();
+        }
+	}
 }

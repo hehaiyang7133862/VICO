@@ -369,7 +369,9 @@ namespace nsVicoClient.ctrls
             lbValue.BorderBrush = _myBorderBrush;
 
             _curObj.setValue(newValue);
-            valmoWin.eventMgr.Add(new recUnit(_curObj.serialNum, valmoWin.dv.users.curUser.name, DateTime.Now, valmoWin.dv.getCurPlateNr(), PreValue, newValue));
+            valmoWin.eventMgr.addParamMsg(_curObj.serialNum, DateTime.Now, PreValue, newValue);
+            valmoWin.refresh();
+
         }
     }
 }

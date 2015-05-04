@@ -11,42 +11,6 @@
             <Label Name="lbDis1" Content="{DynamicResource robot_Main}"  Width="98" HorizontalContentAlignment="Center" FontSize="11" Canvas.Top="42" Foreground="#FF0082C3"/>
             <Image Source="/Program;component/png/HeadSwitch/Select_Me.png" Width="98" Canvas.Top="68" Canvas.Left="0" />
         </Canvas>
-        <Canvas Canvas.Top="100" Height="1410" Width="1068" Background="#FFEAEAEA">
-            <Label Canvas.Left="46" Canvas.Top="33" Content="运行模式：" Height="28" Name="label1" />
-            <my:VicoLabel objName="Prd140" Canvas.Left="116" Canvas.Top="27" />
-            <Label Canvas.Left="239" Canvas.Top="33" Content="触发模式：" Height="28" Name="label2" />
-            <my:VicoLabel objName="Prd141" Canvas.Left="309" Canvas.Top="27" />
-            <Label Canvas.Left="425" Canvas.Top="33" Content="触发趋势：" Height="28" Name="label3" />
-            <my:VicoLabel objName="Prd142" Canvas.Left="495" Canvas.Top="27" />
-            <Label Canvas.Left="622" Canvas.Top="33" Content="触发值：" Height="28" Name="label4" />
-            <my:VicoLabel objName="Prd143" Canvas.Left="692" Canvas.Top="27" />
-            <Label Canvas.Left="814" Canvas.Top="33" Content="提前量：" Height="28" Name="label5" />
-            <my:VicoLabel objName="Prd144" Canvas.Left="884" Canvas.Top="27" UnitVisiable="Visible"/>
-            <Label Canvas.Left="46" Canvas.Top="88" Content="采样数量：" Height="28" Name="label6" />
-            <my:VicoLabel objName="Prd145" Canvas.Left="116" Canvas.Top="82" />
-            <Label Canvas.Left="239" Canvas.Top="88" Content="采样精度：" Height="28" Name="label7" />
-            <my:VicoLabel objName="Prd146" Canvas.Left="309" Canvas.Top="82" UnitVisiable="Visible"/>
-            <Label Canvas.Left="489" Canvas.Top="88" Content="采样数据长度：" Height="28" Name="label10" />
-            <my:VicoLabel objName="Prd159" Canvas.Left="583" Canvas.Top="82" UnitVisiable="Visible" ReadOnly="True"/>
-            <Label Canvas.Left="46" Canvas.Top="259" Content="通道一数据：" Height="28" Name="label8" />
-            <my:VicoLabel objName="Prd147" Canvas.Left="141" Canvas.Top="253" UnitVisiable="Visible"/>
-            <Label Canvas.Left="268" Canvas.Top="259" Content="通道一当前数值：" Height="28" Name="label9" />
-            <my:VicoLabel objName="Prd149" Canvas.Left="374" Canvas.Top="253" UnitVisiable="Visible"/>
-            <TextBlock Canvas.Left="46" Canvas.Top="302" Height="351" Name="tb1" Width="996" TextWrapping="Wrap" Background="White"/>
-            <Label Canvas.Left="46" Canvas.Top="683" Content="通道二数据：" Height="28" Name="label11" />
-            <my:VicoLabel Canvas.Left="141" Canvas.Top="677" UnitVisiable="Visible" objName="Prd150" />
-            <Label Canvas.Left="268" Canvas.Top="683" Content="通道二当前数值：" Height="28" Name="label12" />
-            <my:VicoLabel Canvas.Left="374" Canvas.Top="677" UnitVisiable="Visible" objName="Prd152" />
-            <TextBlock Canvas.Left="46" Canvas.Top="725" Height="288" Name="tb2" Width="996" TextWrapping="Wrap" Background="White"/>
-            <Label Canvas.Left="46" Canvas.Top="1042" Content="通道三数据：" Height="28" Name="label13" />
-            <my:VicoLabel Canvas.Left="141" Canvas.Top="1036" UnitVisiable="Visible" objName="Prd153" />
-            <Label Canvas.Left="268" Canvas.Top="1042" Content="通道三当前数值：" Height="28" Name="label14" />
-            <my:VicoLabel Canvas.Left="374" Canvas.Top="1036" UnitVisiable="Visible" objName="Prd155" />
-            <TextBlock Canvas.Left="46" Canvas.Top="1096" Height="291" Name="tb3" Width="996" TextWrapping="Wrap" Background="White"/>
-            <Button Canvas.Left="530" Canvas.Top="261" Content="读取" Height="23" Name="button1" Width="75" Click="button1_Click_2" />
-            <Button Canvas.Left="530" Canvas.Top="1042" Content="读取" Height="23" Name="button2" Width="75" Click="button2_Click_1" />
-            <Button Canvas.Left="530" Canvas.Top="684" Content="读取" Height="23" Name="button3" Width="75" Click="button3_Click" />
-        </Canvas>
         <!--<Button Canvas.Left="488" Canvas.Top="214" Content="Load" Height="58" Name="button1" Width="75" Click="button1_Click" />
         <Button Canvas.Left="248" Canvas.Top="223" Content="set" Height="49" Name="button2" Width="75" Click="button2_Click" />-->
         <!--<Rectangle StrokeThickness="3" Stroke="#FFBA3535" Height="100" Width="100"/>-->
