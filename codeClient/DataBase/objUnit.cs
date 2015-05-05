@@ -307,6 +307,7 @@ namespace nsDataMgr
 
         public static Dictionary<UnitType, string> unitBase = new Dictionary<UnitType, string>()
         {
+#region unitType
             {UnitType.DgtType,         "" },
             {UnitType.Len_mm,          unit_mm },
             {UnitType.Len_inch,        unit_inch },
@@ -359,6 +360,7 @@ namespace nsDataMgr
             {UnitType.Power,           unit_w },
             {UnitType.PowerKHour,      unit_kwh },
             {UnitType.PowerHour,       unit_wh }
+#endregion
         };
         public static IDictionary<UnitType, double> rate = new Dictionary<UnitType, double>()
         {
@@ -403,7 +405,6 @@ namespace nsDataMgr
             {UnitType.DAcceleration,            1000 },
             {UnitType.Degree,            1000 },
             {UnitType.DegreeSpd,            1000 },
-
             {UnitType.voltage,                  1000 },
             {UnitType.LenInj_mm,                10000 },
             {UnitType.LenInj_inch,              10000 * InchToMm },
