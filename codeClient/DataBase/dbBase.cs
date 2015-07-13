@@ -1074,6 +1074,7 @@ namespace nsDataMgr
             lstItem.Add(new objUnit("Inj032", UnitType.RSpeed, "noMin", "noMax", "MainInjectionControl1.sShow_ActScrewSpeed"));
             lstItem.Add(new objUnit("Inj033", UnitType.Prs_Mpa, "noMin", "noMax", "MainInjectionControl1.sShowInjStartPress"));
             lstItem.Add(new objUnit("Inj034", UnitType.Prs_Mpa, "noMin", "noMax", "Mold_Inside_Pressre1.sActPressre"));
+            lstItem.Add(new objUnit("Inj035", UnitType.Len_mm, "noMin", "noMax", "MainInjectionControl1.sShowPressureBefPls"));
             lstItem.Add(new objUnit("Inj036", UnitType.DgtType, "1", "4", "MainInjectionParameter1\\Injection1.sHolding_Stepnumber"));
             lstItem.Add(new objUnit("Inj037", UnitType.Prs_Mpa, "0", "Inj188", "MainInjectionParameter1\\Injection1.sHolding_P1"));
             lstItem.Add(new objUnit("Inj038", UnitType.Prs_Mpa, "0", "Inj188", "MainInjectionParameter1\\Injection1.sHolding_P2"));
@@ -1223,9 +1224,9 @@ namespace nsDataMgr
             lstItem.Add(new objUnit("Inj188", UnitType.Prs_Mpa, "noMin", "noMax", "FileEvaluation1.sMaxHoldingPressure"));
             lstItem.Add(new objUnit("Inj189", UnitType.Prs_Mpa, "noMin", "noMax", "FileEvaluation1.sMaxInjectionPressure"));
             lstItem.Add(new objUnit("Inj190", UnitType.Len_mm, "noMin", "noMax", "FileEvaluation1.sMaxInjectionStroke"));
-            lstItem.Add(new objUnit("Inj191", UnitType.ForceKN, "noMin", "noMax", "FileEvaluation1.sLoadCellRange"));
-            lstItem.Add(new objUnit("Inj192", UnitType.ForceKN, "noMin", "noMax", "FileEvaluation1.sMaxInjectionForce"));
-            lstItem.Add(new objUnit("Inj193", UnitType.ForceKN, "noMin", "noMax", "FileEvaluation1.sMaxHoldingForce"));
+            lstItem.Add(new objUnit("Inj191", UnitType.Force_ton, "noMin", "noMax", "FileEvaluation1.sLoadCellRange"));
+            lstItem.Add(new objUnit("Inj192", UnitType.Force_ton, "noMin", "noMax", "FileEvaluation1.sMaxInjectionForce"));
+            lstItem.Add(new objUnit("Inj193", UnitType.Force_ton, "noMin", "noMax", "FileEvaluation1.sMaxHoldingForce"));
             lstItem.Add(new objUnit("Inj194", UnitType.RSpeed, "noMin", "noMax", "FileEvaluation1.sInjectionMotorRatedSpeed"));
             lstItem.Add(new objUnit("Inj195", UnitType.Per, "noMin", "noMax", "FileEvaluation1.sInjectionMotorOverspeedRatio"));
             lstItem.Add(new objUnit("Inj196", UnitType.DgtType, "noMin", "noMax", "FileEvaluation1.sInjectionMotorPullyTeeth"));
@@ -1241,7 +1242,7 @@ namespace nsDataMgr
             lstItem.Add(new objUnit("Inj208", UnitType.voltage, "noMin", "noMax", "FileEvaluation1.sMaxInjForceVolt"));
             lstItem.Add(new objUnit("Inj209", UnitType.voltage, "noMin", "noMax", "FileEvaluation1.sMaxHolForceVolt"));
             lstItem.Add(new objUnit("Inj210", UnitType.DgtType, "noMin", "noMax", "CalcPressure1.sAINput"));
-            lstItem.Add(new objUnit("Inj211", UnitType.ForceKN, "noMin", "noMax", "CalcPressure1.sActForce"));
+            lstItem.Add(new objUnit("Inj211", UnitType.Force_ton, "noMin", "noMax", "CalcPressure1.sActForce"));
             lstItem.Add(new objUnit("Inj212", UnitType.DgtType, "-10000", "10000", "CalcPressure1.Offset"));
             lstItem.Add(new objUnit("Inj213", UnitType.Prs_Mpa, "noMin", "noMax", "CalcPressure1.sActPressure"));
             lstItem.Add(new objUnit("Inj214", UnitType.Len_mm, "noMin", "noMax", "MainInjectionParameter1\\Injection1.sVPMaxpos"));
@@ -1265,8 +1266,8 @@ namespace nsDataMgr
             lstItem.Add(new objUnit("Inj232", UnitType.Tm_s, "0", "100000", "MainInjectionParameter1\\Injection1.sInjMaxT"));
             lstItem.Add(new objUnit("Inj233", UnitType.DgtType, "0", "1", "MainInjectionParameter1\\Injection1.sHoldInManual"));
             lstItem.Add(new objUnit("Inj234", UnitType.Spd_mm, "10000", "Inj199", "MainInjectionParameter1\\Injection1.sAdjSpeed"));
-            lstItem.Add(new objUnit("Inj235", UnitType.ForceKN, "0", "Inj236", "Mold_Inside_Pressre1.sVPSwitchForce"));
-            lstItem.Add(new objUnit("Inj236", UnitType.ForceKN, "0", "noMax", "Mold_Inside_Pressre1.sLoad_Cell_Range"));
+            lstItem.Add(new objUnit("Inj235", UnitType.Force_ton, "0", "Inj236", "Mold_Inside_Pressre1.sVPSwitchForce"));
+            lstItem.Add(new objUnit("Inj236", UnitType.Force_ton, "0", "noMax", "Mold_Inside_Pressre1.sLoad_Cell_Range"));
             lstItem.Add(new objUnit("Inj237", UnitType.Len_mm, "0", "Inj065", "MainInjectionParameter1\\Injection1.sCusionLow"));
             lstItem.Add(new objUnit("Inj238", UnitType.Len_mm, "0", "Inj239", "MainInjectionParameter1\\Injection1.sMinCustionLow"));
             lstItem.Add(new objUnit("Inj239", UnitType.Len_mm, "Inj238", "Inj049", "MainInjectionParameter1\\Injection1.sMinCustionUp"));

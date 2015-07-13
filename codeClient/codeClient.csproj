@@ -59,6 +59,14 @@
     <StartupObject>nsVicoClient.App</StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.2.4.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.4.1, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
     <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\log4net.dll</HintPath>
@@ -283,6 +291,12 @@
     <Compile Include="ctrls\VicoTimeLabel.xaml.cs">
       <DependentUpon>VicoTimeLabel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ctrls\VideoView.xaml.cs">
+      <DependentUpon>VideoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ctrls\VideoWindow.xaml.cs">
+      <DependentUpon>VideoWindow.xaml</DependentUpon>
+    </Compile>
     <Compile Include="DataBase\dataPlc\DataStream.cs" />
     <Compile Include="DataBase\dataPlc\ICMD_Stream.cs" />
     <Compile Include="DataBase\dataPlc\IREAD_Stream.cs" />
@@ -296,6 +310,7 @@
     <Compile Include="DataBase\dvClass.cs" />
     <Compile Include="DataBase\objUnit.cs" />
     <Compile Include="DataBase\Unit.cs" />
+    <Compile Include="DataBase\VideoSource.cs" />
     <Compile Include="DataBase\vm.cs" />
     <Compile Include="DataSource\SPCData.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -1556,6 +1571,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ctrls\VideoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ctrls\VideoWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ctrls\watchCtl.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -2371,7 +2394,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -3582,6 +3607,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="DataSource\kernel32.dll" />
+    <Resource Include="png\blocks\Button-Back.png" />
+    <Resource Include="png\blocks\HeadLine-2015.png" />
+    <Resource Include="png\blocks\PageSwitch-back.png" />
+    <Resource Include="png\blocks\VideoBg.png" />
     <Resource Include="png\Sign\help-32.png" />
     <Resource Include="Images\QQ截图20150318145726.jpg" />
     <Resource Include="png\Sign\WorkerMaintain_50.png" />

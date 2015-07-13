@@ -59,6 +59,8 @@ namespace nsVicoClient
         {
             valmoWin.execMsg(new WinMsg(WinMsgType.mwMsgSave));
 
+            VideoSource.getInstance().Close();
+
             base.OnExit(e);
         }
 

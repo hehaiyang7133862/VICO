@@ -46,6 +46,7 @@
             <Button Canvas.Left="530" Canvas.Top="261" Content="读取" Height="23" Name="button1" Width="75" Click="button1_Click_2" />
             <Button Canvas.Left="530" Canvas.Top="1042" Content="读取" Height="23" Name="button2" Width="75" Click="button2_Click_1" />
             <Button Canvas.Left="530" Canvas.Top="684" Content="读取" Height="23" Name="button3" Width="75" Click="button3_Click" />
+            <Button Canvas.Left="842" Canvas.Top="154" Content="Button" Height="23" Name="button4" Width="75" Click="button4_Click" />
         </Canvas>
         <!--<Button Canvas.Left="488" Canvas.Top="214" Content="Load" Height="58" Name="button1" Width="75" Click="button1_Click" />
         <Button Canvas.Left="248" Canvas.Top="223" Content="set" Height="49" Name="button2" Width="75" Click="button2_Click" />-->

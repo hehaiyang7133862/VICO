@@ -18,6 +18,7 @@ using nsDataMgr;
 using System.Xml;
 using System.Runtime.InteropServices;
 using nsVicoClient;
+using System.Diagnostics;
 
 namespace nsVicoClient.ctrls
 {
@@ -197,6 +198,18 @@ namespace nsVicoClient.ctrls
                 tb3.Text += i + ",";
             }
 
+        }
+
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            for (int i = 0; i < 100000000; i++)
+            {
+                objUnit.getDblValue(3232423, UnitType.LenInj_mm);
+            }
+            sw.Stop();
+            Console.WriteLine(sw.ElapsedMilliseconds.ToString());
         }
     }
 }

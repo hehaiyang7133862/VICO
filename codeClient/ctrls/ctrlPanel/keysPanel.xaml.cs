@@ -13,11 +13,18 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Collections.Specialized;
 using nsDataMgr;
+using AForge.Video;
+using AForge.Video.DirectShow;
+using System.Drawing;
 
 namespace nsVicoClient.ctrls
 {
     public partial class keysPanel : UserControl
     {
+        /// <summary>
+        /// 视频源
+        /// </summary>
+        private VideoSource Video;
         public static nullEvent refreshCtrlsHandle;
 
         public keysPanel()
@@ -27,6 +34,9 @@ namespace nsVicoClient.ctrls
             init();
 
             refreshCtrlsHandle += init;
+
+            //Video = VideoSource.getInstance();
+            //Video.NewFarmeEnvent = captureAForge_NewFrame;
         }
 
         private void init()
@@ -106,6 +116,88 @@ namespace nsVicoClient.ctrls
                 imgDown.Visibility = Visibility.Visible;
                 imgUp.Visibility = Visibility.Hidden;
             }
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            if (cvsVideo.Visibility == Visibility.Hidden)
+            {
+                Video.Start();
+                cvsVideo.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                Video.Stop();
+                cvsVideo.Visibility = Visibility.Hidden;
+            }
+        }
+
+        void captureAForge_NewFrame(object sender, NewFrameEventArgs eventArgs)
+        {
+            vBox.BackgroundImage = (Bitmap)eventArgs.Frame.Clone();
+            vBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+        }
+
+        private bool bIsMouseDown = false;
+        private System.Windows.Point pLastMousePos;
+
+        private void cvsVideoHead_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            e.Handled = true;
+
+            bIsMouseDown = true;
+            pLastMousePos = e.GetPosition(cvsMain);
+        }
+
+        private void cvsVideoHead_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (bIsMouseDown == true)
+            {
+                if (e.LeftButton == MouseButtonState.Pressed)
+                {
+                    System.Windows.Point pCurMousePos = e.GetPosition(cvsMain);
+
+                    double top = Canvas.GetTop(cvsVideo);
+                    double topNew = top + pCurMousePos.Y - pLastMousePos.Y;
+                    Canvas.SetTop(cvsVideo, topNew);
+
+                    double left = Canvas.GetLeft(cvsVideo);
+                    double leftNew = left + pCurMousePos.X - pLastMousePos.X;
+                    Canvas.SetLeft(cvsVideo, leftNew);
+
+                    pLastMousePos = pCurMousePos;
+                }
+            }
+        }
+
+        private void cvsVideoHead_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            bIsMouseDown = false;
+        }
+
+        private void cvsVideoHead_MouseLeave(object sender, MouseEventArgs e)
+        {
+            bIsMouseDown = false;
+        }
+
+        private void btnClose_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            e.Handled = true;
+            btnClose.Background = new SolidColorBrush(System.Windows.Media.Color.FromRgb(0x1C, 0x08, 0x7f));
+        }
+
+        private void btnClose_MouseUp(object sender, MouseButtonEventArgs e)
+        {
+            e.Handled = true;
+            btnClose.Background = new SolidColorBrush(Colors.Transparent);
+
+            cvsVideo.Visibility = Visibility.Hidden;
+            Video.Stop();
+        }
+
+        private void btnClose_MouseLeave(object sender, MouseEventArgs e)
+        {
+            btnClose.Background = new SolidColorBrush(Colors.Transparent);
         }
     }
 }

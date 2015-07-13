@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="nsVicoClient.ctrls.VideoView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:wfm="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms" 
+             mc:Ignorable="d" 
+             d:DesignHeight="525" d:DesignWidth="640">
+    <Canvas>
+        <Canvas Name="cvsVideoHead" Height="45" Width="640" Background="#FF094AB2" >
+            <Label Margin="5,0,0,0" FontSize="16" Foreground="White" FontFamily="Verdana" Canvas.Top="7">Video</Label>
+            <Border Name="btnClose" Canvas.Top="-1" Canvas.Right="0" Height="47" Width="62" BorderBrush="Transparent" Background="Transparent"
+                        MouseDown="btnClose_MouseDown" MouseUp="btnClose_MouseUp" MouseLeave="btnClose_MouseLeave">
+                <Label HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Margin="0,0,5,0" FontSize="16" Foreground="White">Close</Label>
+            </Border>
+        </Canvas>
+        <Image Canvas.Top="45" Height="480" Width="640" Source="/Program;component/Images/20141015110840.png"></Image>
+        <!--<WindowsFormsHost Canvas.Top="45" Height="480" Width="640" Name="Video" Background="Transparent">
+            <wfm:PictureBox x:Name="vBox"/>
+        </WindowsFormsHost>-->
+    </Canvas>
+</UserControl>

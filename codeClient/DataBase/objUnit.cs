@@ -398,7 +398,7 @@ namespace nsDataMgr
             {UnitType.Volume_mm3,                   1 },
             {UnitType.Volume_cm3,               1000 },
             {UnitType.Temp_C,                   10 },
-            {UnitType.Temp_F,                   10.0 * 9 / 5 },
+            {UnitType.Temp_F,                   10.0 * 5 / 9 },
             {UnitType.RSpeed,                   1 },
             {UnitType.DAcceleration,            1000 },
             {UnitType.Degree,            1000 },
